@@ -1,14 +1,13 @@
 # 🧠 Deneyap Kumanda Kolu ile Yön Hafızası Oyunu (Simon Says)
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Donanım-Deneyap%20Kart%20(ESP32)-007acc?style=for-the-badge&logo=espressif&logoColor=white" alt="Donanım" />
-  <img src="https://img.shields.io/badge/Ekran-Deneyap%20OLED%20(0x7A)-8b5cf6?style=for-the-badge" alt="OLED" />
-  <img src="https://img.shields.io/badge/Giriş-Deneyap%20Kumanda%20Kolu%20(0x1B)-10b981?style=for-the-badge" alt="Joystick" />
-  <img src="https://img.shields.io/badge/İletişim-I2C%20Protokolü-f59e0b?style=for-the-badge" alt="I2C" />
-  <img src="https://img.shields.io/badge/Oyun-Hafıza%20ve%20Refleks-ef4444?style=for-the-badge" alt="Oyun Türü" />
-  <img src="https://img.shields.io/badge/Lisans-MIT-brightgreen?style=for-the-badge" alt="Lisans" />
+  <a href="#donanim-ve-baglantilar"><img src="https://img.shields.io/badge/Donan%C4%B1m-Deneyap%20Kart%20(ESP32)-24292e?style=flat-square&logo=espressif" alt="Donanım" /></a>
+  <a href="#donanim-ve-baglantilar"><img src="https://img.shields.io/badge/Ekran-Deneyap%20OLED%20(0x7A)-24292e?style=flat-square" alt="OLED" /></a>
+  <a href="#donanim-ve-baglantilar"><img src="https://img.shields.io/badge/Giri%C5%9F-Deneyap%20Kumanda%20Kolu%20(0x1B)-24292e?style=flat-square" alt="Joystick" /></a>
+  <a href="#donanim-ve-baglantilar"><img src="https://img.shields.io/badge/%C4%B0leti%C5%9Fim-I2C%20Protokol%C3%BC-24292e?style=flat-square" alt="I2C" /></a>
+  <a href="#oyun-kurallari-ve-mekanigi"><img src="https://img.shields.io/badge/Oyun-Haf%C4%B1za%20%26%20Refleks-24292e?style=flat-square" alt="Oyun Türü" /></a>
+  <a href="#lisans"><img src="https://img.shields.io/badge/Lisans-MIT-24292e?style=flat-square" alt="Lisans" /></a>
 </p>
-
 > **Retro arcade tarzı görsel hafıza ve refleks oyunu:** Deneyap Kart, Deneyap I2C OLED ekran ve analog kumanda kolu (joystick) kullanılarak geliştirilen; her turda uzayan rastgele yön dizisini (Yukarı, Aşağı, Sol, Sağ) ezberleyip joystick ile doğru sırayla girmeyi gerektiren interaktif Simon Says klonu hafıza oyunu.
 
 ---
